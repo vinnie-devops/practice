@@ -1,0 +1,32 @@
+What is Unix?
+Unix is the family of multitasking,multi-user computer operating system which was developed in 1950
+
+Unix OS
+1)Shell-Command line Interpreter
+2)Kernel-Heart of OS It allocates time and memory to programs
+3)Programs/Hardware
+
+
+Unix can be used both in GUI and CLI
+Command---It is a set of instructions or script which is executed by Shell Prompt
+Eg:$Command [options] [arguments]
+
+Basic Unix commands:
+1)Clear--Clears all the things on screen
+2)ls--list the contents of current directory
+3)Use sudo command for switching to root user anytime
+  Eg:sudo mkdir file1   ---> creates file1 directory with user and owner as root
+4)touch --creates empty file or modifies the time of a existing command
+5)cat ---shows the contents of a file
+  Eg: cat file1---Shows the contents in file1 
+  Eg2:cat file1 file2 shows the cntents of file1 anf file2 in next line
+6)mkdir ---creates a directory
+7)cd --chages directory
+8)cp ---copy contents of one file to another file
+9)rm ---removes the file or deletes the file
+10)rm -d 
+   rm -r
+   removes the conetents of directory first and then the directory
+11)rmdir ---only removes empty directories
+12)mv --moves or renames a file from one directory to other
+13)echo ---Just prints the conetent as it is
